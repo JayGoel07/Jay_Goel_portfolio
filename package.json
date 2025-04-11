@@ -18,7 +18,7 @@
     "extends": "react-app"
   },
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "browserslist": [
     ">0.2%",
